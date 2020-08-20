@@ -1,0 +1,48 @@
+All Labs: https://www.azuredevopslabs.com/
+Demo Generator: https://azuredevopsdemogenerator.azurewebsites.net/
+Module 1
+Agile Planning & Portfolio Management with Azure Boards: https://www.azuredevopslabs.com/labs/azuredevops/agile/ 
+Module 2
+https://www.azuredevopslabs.com/labs/azuredevops/git/ (upto 5 ex)
+Module 3
+https://www.azuredevopslabs.com/labs/azuredevops/git/ (ex 6 and 7)
+Module 4
+Package Management with Azure Artifacts - https://www.azuredevopslabs.com/labs/azuredevops/packagemanagement
+Module 5
+Enabling Continuous Integration with Azure Pipelines - https://www.azuredevopslabs.com/labs/azuredevops/continuousintegration/
+Module 6
+Integrating Azure KeyVault with Azure DevOps - https://www.azuredevopslabs.com/labs/vstsextend/azurekeyvault/
+Module 7
+SonarCloud https://www.azuredevopslabs.com/labs/azuredevops/sonarcloud/
+Module 8
+Modernizing your existing ASP.NET Apps with Azure -https://www.azuredevopslabs.com/labs/vstsextend/aspnetmodernize/
+White Source https://www.azuredevopslabs.com/labs/vstsextend/WhiteSource/
+Module 11
+Controlling Deployments using Release Gates - https://azuredevopslabs.com/labs/vstsextend/releasegates/
+ https://azuredevopslabs.com/labs/azuredevops/prereq/#task-1-configuring-the-parts-unlimited-team-project
+Module 12
+Feature Flag Management with LaunchDarkly and AzureDevOps - https://www.azuredevopslabs.com/labs/vstsextend/launchdarkly/
+
+Module 13
+Monitoring Application Performance with Application Insights - https://azuredevopslabs.com/labs/azuredevops/appinsights/
+
+Module 14
+http://microsoft.github.io/PartsUnlimited/iac/200.2x-IaC-AZ-400T05AppInfra.html
+Lab Steps are available on GitHub at the below, under the Infrastructure as Code sections. 
+https://microsoft.github.io/PartsUnlimited
+https://microsoft.github.io/PartsUnlimitedMRP
+
+Module 15
+https://azuredevopslabs.com/labs/vstsextend/dockerjava/
+
+Module 16
+Deploying a multi-container application to Azure Kubernetes Services - https://azuredevopslabs.com/labs/vstsextend/kubernetes/#access-the-kubernetes-web-dashboard-in-azure-kubernetes-service-aks
+
+Module 17
+Automating infrastructure deployments in the Cloud with Terraform and Azure Pipelines - https://azuredevopslabs.com/labs/vstsextend/terraform/
+
+Module 18
+http://microsoft.github.io/PartsUnlimited/iac/200.2x-IaC-SecurityandComplianceinpipeline.html
+Lab Steps in this course are available on GitHub at the below, under the Infrastructure as Code sections. 
+https://microsoft.github.io/PartsUnlimited
+https://microsoft.github.io/PartsUnlimitedMRP
